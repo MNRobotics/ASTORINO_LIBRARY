@@ -1,0 +1,120 @@
+#######################################
+# Syntax Coloring Map For ASTORINO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+astorino	KEYWORD1
+RetVal	KEYWORD1 
+TransformationPoints	KEYWORD1
+JointPoints	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getLibVersion	KEYWORD2
+Connect	KEYWORD2
+Disconnect	KEYWORD2
+setTimeOut	KEYWORD2
+setMotionTimeOut	KEYWORD2
+cancelMotion	KEYWORD2
+emergencyStop	KEYWORD2
+ForwardKinematics	KEYWORD2
+InverseKinematics	KEYWORD2
+toOAT	KEYWORD2
+toRPY	KEYWORD2
+setMotorOn	KEYWORD2
+setMotorOff	KEYWORD2
+reset	KEYWORD2
+Hold	KEYWORD2
+Run	KEYWORD2
+turnDryRunOn	KEYWORD2
+turnDryRunOff	KEYWORD2
+setRepeatCont	KEYWORD2
+setRepeatOnce	KEYWORD2
+setStepOnce	KEYWORD2
+setStepCont	KEYWORD2
+cycleStop	KEYWORD2
+cycleStart	KEYWORD2
+nextStep	KEYWORD2
+readInput	KEYWORD2
+readOutput	KEYWORD2
+readInternal	KEYWORD2
+setOutput	KEYWORD2
+setInternal	KEYWORD2
+readStatusBytes	KEYWORD2
+isMotorOn	KEYWORD2
+isInHome	KEYWORD2
+isRepeatModeOn	KEYWORD2
+isHoldOn	KEYWORD2
+isCycleOn	KEYWORD2
+isEstopOn	KEYWORD2
+isErrorOn	KEYWORD2
+isReadyOn	KEYWORD2
+isExternalHoldOn	KEYWORD2
+isSafetyFenceOn	KEYWORD2
+isRepeatContOn	KEYWORD2
+isStepOnceOn	KEYWORD2
+isStepWaitingOn	KEYWORD2
+isDryRunOn	KEYWORD2
+isZeroingDone	KEYWORD2
+isInMotion	KEYWORD2
+isIOActive	KEYWORD2
+isModbusConnected	KEYWORD2
+isCollisionDetectionActive	KEYWORD2
+isZeroingRunning	KEYWORD2
+isTeachMotionActive	KEYWORD2
+isMotionCommand	KEYWORD2
+readSelectedTeachMotionMode	KEYWORD2
+readSelectedToolNumber	KEYWORD2
+readSelectedTeachSpeed	KEYWORD2
+isHallSensorOn	KEYWORD2
+JT	KEYWORD2
+JT_Velocity	KEYWORD2
+Pose	KEYWORD2
+TCP_Velocity	KEYWORD2
+cpuTemp	KEYWORD2
+readMonitorSpeed	KEYWORD2
+readErrorCode	KEYWORD2
+serialNumber	KEYWORD2
+firmwareVersion	KEYWORD2
+readTransPointsData	KEYWORD2
+readJointPointsData	KEYWORD2
+setUartTimeout	KEYWORD2
+setHome	KEYWORD2
+setTool	KEYWORD2
+setWork	KEYWORD2
+setHomeHere	KEYWORD2
+setMonitorSpeed	KEYWORD2
+saveCurrentJointsAsPoint	KEYWORD2
+saveCurrentPoseAsPoint	KEYWORD2
+setMainProgram	KEYWORD2
+selectProgram	KEYWORD2
+readProgramsName	KEYWORD2
+mainProgram	KEYWORD2
+selectedProgram	KEYWORD2
+sendToolData	KEYWORD2
+removePoint	KEYWORD2
+readToolData	KEYWORD2
+readTransformationPoint	KEYWORD2
+readJointPoint	KEYWORD2
+Zero	KEYWORD2
+JMOVE	KEYWORD2
+LMOVE	KEYWORD2
+HOME	KEYWORD2
+CMOVE	KEYWORD2
+JAPPRO	KEYWORD2
+LAPPRO	KEYWORD2
+RTC_ON	KEYWORD2
+RTC_OFF	KEYWORD2
+setRTC_OffsetData	KEYWORD2
+RTC_move	KEYWORD2
+executeASCommand	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
